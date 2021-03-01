@@ -7,4 +7,5 @@ D. Steam should open your game folder for you when clicked
 E. Extract the zip file into the root of the folder and replace all if prompted
 4. Download the config file from the server - https://github.com/Alternating/valheim/blob/main/valheim_plus.cfg
 5. Replace the config file in your valheim folder Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\
-6. launch and beat up bob
+6. download CraftFromContainers.dll and place that file in Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\plugins
+7. 
