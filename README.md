@@ -8,4 +8,4 @@ E. Extract the zip file into the root of the folder and replace all if prompted
 4. Download the config file from the server - https://github.com/Alternating/valheim/blob/main/valheim_plus.cfg
 5. Replace the config file in your valheim folder Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\
 6. download CraftFromContainers.dll and place that file in Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\plugins
-7. 
+7. https://www.nexusmods.com/valheim/mods/15 - download the unstripped_manage zip from this repository and follow the instructions at this link
