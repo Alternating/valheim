@@ -1,4 +1,4 @@
-1. valheim plus install https://www.nexusmods.com/valheim/mods/4
+1. valheim plus install https://www.nexusmods.com/valheim/mods/4 - for reference 
 2. Download https://github.com/valheimPlus/ValheimPlus/releases/download/0.9/WindowsClient.zip
 3. A. Locate your game folder, go into steam and :
 B. Right click the valheim game in your steam library
@@ -9,3 +9,7 @@ E. Extract the zip file into the root of the folder and replace all if prompted
 5. Replace the config file in your valheim folder Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\
 6. download CraftFromContainers.dll and place that file in Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\plugins
 7. https://www.nexusmods.com/valheim/mods/15 - download the unstripped_manage zip from this repository and follow the instructions at this link
+
+
+// Script used to install the dedicated server 
+1. https://github.com/Nimdy/Dedicated_Valheim_Server_Script
